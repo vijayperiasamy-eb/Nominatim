@@ -4,7 +4,7 @@
 
 Bugs can be reported at https://github.com/openstreetmap/Nominatim/issues.
 Please always open a separate issue for each problem. In particular, do
-not add your bugs to closed issues. They may looks similar to you but
+not add your bugs to closed issues. They may look similar to you but
 often are completely different from the maintainer's point of view.
 
 ### When Reporting Bad Search Results...
